@@ -1,0 +1,4 @@
+com\example\KafkaProducerConsumer\Consumer\KafkaConsumerService.class
+com\example\KafkaProducerConsumer\KafkaProducerConsumerApplication.class
+com\example\KafkaProducerConsumer\Controller\KafkaController.class
+com\example\KafkaProducerConsumer\producer\KafkaProducerService.class
